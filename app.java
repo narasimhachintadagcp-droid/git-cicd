@@ -1,9 +1,8 @@
-public class app {
-        public static void main(String[] args) {
-                int a = 10, b = 20;
-                System.out.println("The addition is :" + (a + b));
-                System.out.println("The subtraction is :" + (a - b));
-                System.out.println("The multiplication is :" + (a * b));
-        }
-}
 
+public class app {
+	public static void main(string[] args)}
+        	int a=10,int b=20;
+	        system.out.pringln("The addition is :"+(a+b));
+
+	}
+}
